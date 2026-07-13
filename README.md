@@ -69,8 +69,7 @@ Si deseas replicar este análisis localmente, sigue estos pasos:
 
 1. **Clonar el repositorio:**
 ```bash
-   git clone https://github.com/tiffanymdz/TU_REPOSITORIO.git
-   cd Ocean-IA
+   git clone https://github.com/tiffanymdz/Ocean-IA
 ```
 
 2. **Instalar las dependencias:**
